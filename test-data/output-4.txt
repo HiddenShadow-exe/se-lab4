@@ -1,0 +1,4 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO (both)
+SUCCESS  # <- No more torpedo left in the secondary but one fired successfully
+FAIL     # <- No torpedo left
